@@ -1,112 +1,73 @@
-<div align = "center">
+# [Abhsihek Kumar Keshri](https://2kabhishek.github.io), Software Engineer
 
-<h1><a href="https://2kabhishek.github.io/BareMinimum">BareMinimum</a></h1>
+## Experience
 
-<a href="https://github.com/2KAbhishek/BareMinimum/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=white&label=License"> </a>
+### **Software Craftsperson, Incubyte,** Jun 2021 – **Present**, Remote
 
-<a href="https://github.com/2KAbhishek/BareMinimum/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=plastic&color=e30724&label=Updated"> </a>
+Working in a **Full-Stack** role implementing solutions across different technologies with a US based client in the mental health space, focusing on software quality.
 
-<a href="https://github.com/2KAbhishek/BareMinimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=plastic&color=00d451&label=Stars"></a>
+- Ported an interactive section from a mobile application into a frontend monolith, built using `React`, `Redux`, `NextJS`, `Storybook`, driving engagement among end-users, praised internally.
 
-<a href="https://github.com/2KAbhishek/BareMinimum/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=plastic&color=1688f0&label=Forks"> </a>
+- Worked on data migrations of more than *50K users*, i18n, l10n, and migration of emails to a new platform for a `Ruby on Rails` backend app serving `GraphQL` APIs, which helped in rolling out new and localized services across the globe.
 
-<a href="https://github.com/2KAbhishek/BareMinimum/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=plastic&color=ff5500&label=Watchers"> </a>
+- Wrote new client for external mail services for a `Laravel` based auth component, handling authentication, crucial for onboarding new users.
 
-<a href="https://github.com/2KAbhishek/BareMinimum/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=plastic&color=f0f&label=Contributors"> </a>
+- Migrated our internal blog from paid Azure + Ghost hosting to `Hugo` and `GitHub Pages`, with `GitHub Actions` for CI/CD, saving costs as well as manual intervention for maintenance.
 
-<a href="https://github.com/2KAbhishek?tab=followers">
-<img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
+- Wrote extensive tests for almost all production code, `jest`, `enzyme`, and `rspec` utilized. Followed best practices for clean code, linting, git, etc. as well as across the DevOps pipeline, ensuring long-term code health and maintainability.
 
-<h3>Short sweet headline with 🎇🎉</h3>
+### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.png" alt="BareMinimum Demo" style="width:100%">
-  <br/>
-  <figcaption>BareMinimum screenshot</figcaption>
-</figure>
+Worked in an Agile project with a Latin American client in the consumer products sector, part of a global team.
 
-</div>
+- Developed new logic for critical business modules like cargo loading, settlement process with support for foreign currencies in a legacy `Java Swing` codebase.
 
-## What is this
+- Integrated `SAP Crystal` into the invoicing process migrating away from a custom legacy system.
 
-BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+- Designed and implemented new sections in the `MySQL` database for handling new features.
 
-## Inspiration
+- Handled multiple manual deployments to QA and production and automated most of it with `Python` and `Bash` scripts
 
-BareMinimum was inspired by `<reason/idea>`.
+- Served as a translator for communication between the client and the team (English <-> Spanish).
 
-## Prerequisites
+### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
 
-Before you begin, ensure you have met the following requirements:
+- Built an Android app for sensor data monitoring and sending out required information to cloud.
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- Worked with IoT devices to transmit sensor data via BLE.
 
-## Getting BareMinimum
+## Education
 
-To install BareMinimum, follow these steps:
+### **Bachelor of Technologuy, Birbhum Institute of Technology (MAKAUT)**, 2016 - 2020,  Suri, West Bengal, India
 
-```bash
-git clone https://github.com/2kabhishek/BareMinimum
-cd BareMinimum
-<install_command>
-```
+- Spent most of my time self-learning, doing open-source projects, problem-solving, and learning new technologies.
 
-## Using BareMinimum
+- Graduated in Computer Science and Engineering, with a DGPA of 8.37/10.
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+### **High School, Rampurhat Jitendralal Vidyabhaban**, 2014 - 2016, Rampurhat, West Bengal, India
 
-FLAGS:
-    -h, --help              Prints help information.
+- Studied maths, physics, chemistry, got introduced to computer science.
 
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
+## Skills
 
-Example:
+- Programming Languages (*Proficient*):
+    Java, Python, Ruby, JavaScript, Bash, C
+- Programming Languages (*Familiar*):
+    Kotlin, C++, PHP, Nim, Imba, C#, Rust, Go, R, Lua, Haskell
+- Frameworks/Libraries:
+    Flask, React, Ruby On Rails, Gatsby, Hugo, Spring, NodeJS, Laravel
+- Data:
+    GraphQL, RDBMS, NoSQL, Redis, Excel, Pandas, Numpy
+- DevOps:
+    AWS, Heroku, GitHub, Circle CI, Aptible, Azure, Jenkins, Docker
+- Testing:
+    JUnit, Jest, Enzyme, Rspec, PyTest
+- Tools:
+    Git, Vim, Jira, Command Line Tools
+- Spoken Languages:
+    English, Hindi, Spanish, Bengali
 
+## Links
 
-```
+> [**Email**](mailto:iam2kabhishek@gmail.com) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**Twitter**](https://twitter.com/2kabhishek) |  [**Portfolio**](https://2kabhishek.github.io)
 
-## How it was built
-
-BareMinimum was built using `<tech/library>`
-
-## Challenges faced
-
-While building BareMinimum the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building BareMinimum I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
-
-Hit the ⭐ button if you found this useful.
-
-## More Info
-
-<div align="center">
-
-<a href="https://github.com/2KAbhishek/BareMinimum">Source</a> |
-<a href="https://2kabhishek.github.io/BareMinimum">Website</a>
-
-</div>

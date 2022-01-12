@@ -1,4 +1,4 @@
-# [Abhishek Kumar Keshri](https://2kabhishek.github.io), Software Engineer
+# [Abhishek Kumar Keshri](https://2kabhishek.github.io)
 
 ## Experience
 
@@ -69,5 +69,5 @@ Worked in an Agile project with a Latin American client in the consumer products
 
 ## Links
 
-> [**Email**](mailto:iam2kabhishek@gmail.com) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**Twitter**](https://twitter.com/2kabhishek) |  [**Portfolio**](https://2kabhishek.github.io)
+> [**Email**](mailto:iam2kabhishek@gmail.com) | [**Portfolio**](https://2kabhishek.github.io)| [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**Twitter**](https://twitter.com/2kabhishek) |
 

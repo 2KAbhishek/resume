@@ -2,21 +2,37 @@
 
 ## Experience
 
-### **Software Craftsperson, Incubyte,** Jun 2021 – **Present**, Remote
+> ### **Software Craftsperson, Incubyte,** Jun 2021 – **Present**, Remote
 
 Working in a **Full-Stack** role implementing solutions across different technologies with a US based client in the mental health space, focusing on software quality.
 
-- Ported an interactive section from a mobile application into a frontend monolith, built using `React`, `Redux`, `NextJS`, `Storybook`, driving engagement among end-users, praised internally.
+- Globalized both frontend and backend aspects of the app by developing robust internalization solutions, greatly speeding up addition and release of new languages, bringing down time estimates from months to days.
 
-- Worked on data migrations of more than *50K users*, i18n, l10n, and migration of emails to a new platform for a `Ruby on Rails` backend app serving `GraphQL` APIs, which helped in rolling out new and localized services across the globe.
+- Created custom internalization system for database models using `Ruby on Rails` native i18n gem, allowing integration of 3rd Party translation providers.
 
-- Wrote new client for external mail services for a `Laravel` based auth component, handling authentication, crucial for onboarding new users.
+- Setup automated checks and synchronization of translation data with 3rd party services using `GitHub Actions`.
 
-- Migrated our internal blog from paid Azure + Ghost hosting to `Hugo` and `GitHub Pages`, with `GitHub Actions` for CI/CD, saving costs as well as manual intervention for maintenance.
+- Configured large scale `CircleCI` workflows according to requirements, allowing to run lint, tests, building binaries, containers etc. all as part of the CI/CD pipeline, speeding up dev efforts.
 
-- Wrote extensive tests for almost all production code, `jest`, `enzyme`, and `rspec` utilized. Followed best practices for clean code, linting, git, etc. as well as across the DevOps pipeline, ensuring long-term code health and maintainability.
+- Added accessibility features including screen reader, zooming, colour contrast, keyboard navigation etc. into web app allowing smooth access to a diverse user base.
 
-### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
+- Developed solution to generate PDF/UA and WCAG compliant PDF reports using `PDFKit`, setup interop between `Ruby on Rsild` and `NodeJS`.
+
+- Setup infrastructure for running end to end tests using `Cypress` as part of CI/CD, wrote feature tests and developed best practices, greatly reducing QA efforts.
+
+- Ported an interactive section from a mobile application into web app using `React`, `Redux`, `NextJS`, `Storybook`.
+
+- Worked on data migrations of more than 50K users, for a `PostgreSQL` database using `Ruby on Rails`.
+
+- Migrated emails to a third party platform adding support for internationalization and localiztion.
+
+- Wrote new client for external mail services for a `Laravel` based auth component, handling authentication.
+
+- Moved our blog from paid Azure + Ghost hosting to `GitHub Pages` and `Hugo` with our custom theme, reducing costs and maintenance efforts.
+
+- Helped with hiring, creating new internal processes and Open Source initiatives
+
+> ### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
 
 Worked in an Agile project with a Latin American client in the consumer products sector, part of a global team.
 
@@ -30,7 +46,7 @@ Worked in an Agile project with a Latin American client in the consumer products
 
 - Served as a translator for communication between the client and the team (English <-> Spanish).
 
-### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
+> ### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
 
 - Built an Android app for sensor data monitoring and sending out required information to cloud.
 

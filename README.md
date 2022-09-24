@@ -16,7 +16,7 @@ Working in a **Full-Stack** role implementing solutions across different technol
 
 - Added accessibility features including screen reader, zooming, colour contrast, keyboard navigation etc. into web app allowing smooth access to a diverse user base.
 
-- Developed solution to generate PDF/UA and WCAG compliant PDF reports using `PDFKit`, setup interop between `Ruby on Rsild` and `NodeJS`.
+- Developed solution to generate PDF/UA and WCAG compliant PDF reports using `PDFKit`, setup interop between `Ruby on Rails` and `NodeJS`.
 
 - Setup infrastructure for running end to end tests using `Cypress` as part of CI/CD, wrote feature tests and developed best practices, greatly reducing QA efforts.
 

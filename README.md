@@ -15,9 +15,9 @@
 Working in a **Full-Stack** role implementing solutions across different technologies with a US-based client in the mental health space, focusing on software quality and client satisfaction.
 
 -   Led and implemented various requirements on a `Ruby on Rails` + `Next JS` application, taking end-to-end ownership of features.
--   Globalized both Front-end and Back-end aspects of the app by developing robust internalization tooling and processes, bringing down the required time to introduce new language from months to days.
--   Configured large-scale CI/CD workflows with `GitHub Actions` and `Circle CI`, capable of running lint, unit, and end-to-end, building binaries, containers, and deployments, greatly improving developer productivity and software quality.
--   Added accessibility features for a wide range of users including screen readers, scaling, color contrast, keyboard navigation, etc. also built accessible reporting with `Ruby` and `C++` interop.
+-   Developed robust tooling and processes for i18n and l10n bringing down the required time to introduce new language/region from months to days.
+-   Configured large-scale CI/CD workflows with `GitHub Actions` and `Circle CI`, greatly improving developer productivity and software quality.
+-   Added a11y features including screen reader, readability, contrast, navigation, etc, allowing wider range of users access to the app.
 -   Built personal rapport and trust with the client, prioritizing product goals and business requirements.
 -   Helped with multiple initiatives related to hiring, open source, blogging, and building internal processes.
 
@@ -25,21 +25,20 @@ Working in a **Full-Stack** role implementing solutions across different technol
 
 Worked on an Agile project with a Latin American client in the consumer products sector, as part of a global team.
 
--   Developed new logic for critical business modules like cargo loading, and settlement process with support for foreign currencies in a legacy `Java Swing` codebase.
--   Integrated `SAP Crystal` into the invoicing process migrating away from a custom legacy system.
--   Handled multiple deployments to QA and Production, automated most of it with `Python` and `Bash`
--   Served as a translator for communication between the client and the team (English <-> Spanish).
+-   Developed new logic for critical business modules with support for foreign currencies in a legacy `Java Swing` codebase.
+-   Integrated `SAP Crystal` into the invoicing process, migrating away from a custom legacy system.
+-   Handled multiple deployments to QA and Production, automated it with `Python` and `Bash`
+-   Served as a translator helping with requirement gathering between the client and the team (English <-> Spanish).
 
 ### **SDE Intern, Edifixio,** Dec 2018 - Jan 2019, Kolkata, WB, India
 
--   Built an Android app for sensor data monitoring and sending out the required information to the cloud.
--   Worked with IoT devices to transmit sensor data via BLE.
+-   Built an Android app for IoT device data monitoring with BLE and AWS.
 
 ## Education
 
 ### **Bachelor of Technology (CSE), BIET (MAKAUT)**, 2016 - 2020, 8.37/10
 
--   Spent most of my time self-learning, contributing to open-source, problem-solving, and learning new technologies.
+-   Spent most of my time self-learning, contributing to open-source and learning new technologies.
 
 ## Skills
 

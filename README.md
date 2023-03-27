@@ -1,4 +1,4 @@
-# [Abhishek Kumar Keshri](https://2kabhishek.github.io)
+# [Abhishek Keshri](https://2kabhishek.github.io)
 
 > [**Email**](mailto:iam2kabhishek@gmail.com) | [**Portfolio**](https://2kabhishek.github.io) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**Twitter**](https://twitter.com/2kabhishek) | [**More Links**](https://2kabhishek.github.io/links)
 
@@ -6,7 +6,7 @@
 
 ## Experience
 
-> ### **Software Craftsperson, Incubyte,** Jun 2021 – **Present**, Remote
+### **Software Craftsperson, Incubyte,** Jun 2021 – **Present**, Remote
 
 Working in a **Full-Stack** role implementing solutions across different technologies with a US based client in the mental health space, focusing on software quality and client satisfaction.
 
@@ -17,7 +17,7 @@ Working in a **Full-Stack** role implementing solutions across different technol
 -   Built personal rapport and trust with the client, prioritising product goals and business requirements.
 -   Helped with multiple initiatives related to hiring, open source, blogging and building internal processes.
 
-> ### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
+### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
 
 Worked in an Agile project with a Latin American client in the consumer products sector, part of a global team.
 
@@ -26,7 +26,7 @@ Worked in an Agile project with a Latin American client in the consumer products
 -   Handled multiple deployments to QA and Production, automated most of it with `Python` and `Bash`
 -   Served as a translator for communication between the client and the team (English <-> Spanish).
 
-> ### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
+### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
 
 -   Built an Android app for sensor data monitoring and sending out required information to cloud.
 -   Worked with IoT devices to transmit sensor data via BLE.
@@ -38,18 +38,14 @@ Worked in an Agile project with a Latin American client in the consumer products
 -   Spent most of my time self-learning, doing open-source projects, problem-solving, and learning new technologies.
 -   Graduated in Computer Science and Engineering, with a DGPA of 8.37/10.
 
-### **High School, Rampurhat Jitendralal Vidyabhaban**, 2014 - 2016, Rampurhat, West Bengal, India
-
--   Studied maths, physics, chemistry, got introduced to computer science.
-
 ## Skills
 
 -   Programming Languages:
-    Java, Python, Ruby, JavaScript, Bash, Lua, PHP
+    Ruby, Java, Python, Ruby, JavaScript, Bash, Lua, PHP
 -   Frameworks/Libraries:
-    Flask, React, Ruby On Rails, Gatsby, Hugo, Spring, NodeJS, Laravel
+    Ruby on Rails, React, NextJS, Hugo, Spring, NodeJS, Laravel
 -   Data:
-    GraphQL, RDBMS, NoSQL, Redis, Excel, Pandas, Numpy
+    GraphQL, RDBMS, NoSQL, Redis, Pandas, Numpy
 -   DevOps:
     GitHub, Circle CI, Azure, AWS, Heroku, Aptible, Docker
 -   Testing:

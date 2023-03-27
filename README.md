@@ -38,7 +38,7 @@ Worked on enhancement of a legacy codebase with a Latin American client in the c
 
 ## Education
 
-### Bachelor of Technology, BIET (MAKAUT),
+### Bachelor of Technology, BIET (MAKAUT)
 #### Computer Science and Engineering, 2016 - 2020, 8.37/10
 
 -   Spent most of my time self-learning, contributing to open-source and learning new technologies.

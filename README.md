@@ -30,7 +30,7 @@ Worked on an Agile project with a Latin American client in the consumer products
 -   Handled multiple deployments to QA and Production, automated most of it with `Python` and `Bash`
 -   Served as a translator for communication between the client and the team (English <-> Spanish).
 
-### **Software Development Intern, Edifixio,** Dec 2018 - Jan 2019, Kolkata, WB, India
+### **SDE Intern, Edifixio,** Dec 2018 - Jan 2019, Kolkata, WB, India
 
 -   Built an Android app for sensor data monitoring and sending out the required information to the cloud.
 -   Worked with IoT devices to transmit sensor data via BLE.

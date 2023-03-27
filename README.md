@@ -17,7 +17,7 @@ Working in a **Full-Stack** role implementing solutions across different technol
 -   Built personal rapport and trust with the client, prioritising product goals and business requirements.
 -   Helped with multiple initiatives related to hiring, open source, blogging and building internal processes.
 
-### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, Karnataka, India
+### **Project Engineer, Wipro Limited,** Sep 2020 – Jun 2021, Bengaluru, KN, India
 
 Worked in an Agile project with a Latin American client in the consumer products sector, part of a global team.
 
@@ -26,14 +26,14 @@ Worked in an Agile project with a Latin American client in the consumer products
 -   Handled multiple deployments to QA and Production, automated most of it with `Python` and `Bash`
 -   Served as a translator for communication between the client and the team (English <-> Spanish).
 
-### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, West Bengal, India
+### **Software Development Intern, Edifixio India,** Dec 2018 - Jan 2019, Kolkata, WB, India
 
 -   Built an Android app for sensor data monitoring and sending out required information to cloud.
 -   Worked with IoT devices to transmit sensor data via BLE.
 
 ## Education
 
-### **Bachelor of Technologuy, Birbhum Institute of Technology (MAKAUT)**, 2016 - 2020, Suri, West Bengal, India
+### **Bachelor of Technologuy, Birbhum Institute of Technology (MAKAUT)**, 2016 - 2020
 
 -   Spent most of my time self-learning, doing open-source projects, problem-solving, and learning new technologies.
 -   Graduated in Computer Science and Engineering, with a DGPA of 8.37/10.

@@ -20,7 +20,7 @@ Working in a **Full-Stack** role with a focus on Ruby on Rails, with a US-based 
 -   Developed robust tooling and processes for i18n and l10n bringing down the required time to introduce new language/region from months to days.
 -   Configured large-scale CI/CD workflows with `GitHub Actions` and `Circle CI`, greatly improving developer productivity and software quality.
 -   Added a11y features including screen reader, readability, contrast, navigation, etc, allowing wider range of users access to the app.
--   Built personal rapport and trust with the client, prioritizing product goals and business requirements.
+-   Built personal rapport and trust with the client, prioritizing product goals and business requirements, receiving multiple shoutouts.
 -   Helped with multiple initiatives related to hiring, open source, blogging, and building internal processes.
 
 ### Project Engineer, Wipro
@@ -48,7 +48,8 @@ Volunteering as a mentor, helping people worldwide to learn more about technolog
 
 #### Dec 2018 - Jan 2019, Kolkata, WB, India
 
--   Built an Android app for IoT device data monitoring with BLE and AWS.
+-   Built an Android app for IoT device data monitoring with Bluetooth Low Energy.
+-   Deployed live app using AWS Lambda and received appreciation from users.
 
 ## Education
 

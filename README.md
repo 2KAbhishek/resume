@@ -37,10 +37,9 @@ Worked on an Agile project with a Latin American client in the consumer products
 
 ## Education
 
-### **Bachelor of Technology, BIET (MAKAUT)**, 2016 - 2020
+### **Bachelor of Technology (CSE), BIET (MAKAUT)**, 2016 - 2020, 8.37/10
 
--   Spent most of my time self-learning, doing open-source projects, problem-solving, and learning new technologies.
--   Graduated in Computer Science and Engineering, with a DGPA of 8.37/10.
+-   Spent most of my time self-learning, contributing to open-source, problem-solving, and learning new technologies.
 
 ## Skills
 

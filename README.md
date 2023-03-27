@@ -2,7 +2,7 @@
 
 > [**Email**](mailto:iam2kabhishek@gmail.com) | [**Portfolio**](https://2kabhishek.github.io) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**Twitter**](https://twitter.com/2kabhishek) | [**More Links**](https://2kabhishek.github.io/links)
 
-**Passion driven, tech agnostic developer, who loves the command line**
+**Passion driven, tech agnostic developer, powered by the command line**
 
 ## Experience
 

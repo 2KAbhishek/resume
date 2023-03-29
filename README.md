@@ -62,7 +62,7 @@ Volunteering as a mentor, helping people worldwide to learn more about technolog
 ## Skills
 
 -   **Programming Languages**:
-    Ruby, Java, Python, Ruby, JavaScript, Bash, Lua, PHP
+    Ruby, Java, Python, JavaScript, Bash, Lua, PHP
 -   **Frameworks/Libraries**:
     Ruby on Rails, React, NextJS, Hugo, Spring, NodeJS, Laravel
 -   **Data**:

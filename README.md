@@ -57,7 +57,7 @@ Volunteering as a mentor, helping people worldwide to learn more about technolog
 
 #### Computer Science and Engineering, 2016 - 2020, 8.37/10
 
--   Spent most of my time self-learning, contributing to open-source and learning new technologies.
+As a student, I dedicated a most of my time to self-learning and contributing to open-source projects, while keeping myself updated with the latest technologies
 
 ## Skills
 

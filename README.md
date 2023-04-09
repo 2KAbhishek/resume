@@ -14,25 +14,24 @@
 
 #### Jun 2021 – Present, Remote
 
-Working in a **Full-Stack** role with a focus on Ruby on Rails, with a US-based client in the mental health space, emphasizing on software quality and client satisfaction.
+Full-Stack Lead Developer with expertise in Ruby on Rails and Next.js, serving a US-based client in the mental health industry. Committed to delivering top-notch software quality and ensuring client satisfaction.
 
--   Led and implemented various requirements on a `Ruby on Rails` + `Next JS` application, taking end-to-end ownership of features.
--   Developed robust tooling and processes for i18n and l10n bringing down the required time to introduce new language/region from months to days.
--   Configured large-scale CI/CD workflows with `GitHub Actions` and `Circle CI`, greatly improving developer productivity and software quality.
--   Added a11y features including screen reader, readability, contrast, navigation, etc, allowing wider range of users access to the app.
--   Built personal rapport and trust with the client, prioritizing product goals and business requirements, receiving multiple shoutouts.
--   Helped with multiple initiatives related to hiring, open source, blogging, and building internal processes.
+-   Led and implemented end-to-end features on Ruby on Rails + Next.js application
+-   Reduced i18n and l10n time from months to days through efficient tooling and processes
+-   Configured CI/CD workflows on GitHub Actions and Circle CI to improve developer productivity and software quality
+-   Enhanced accessibility features to increase app usability for a wider range of users
+-   Built strong client relationships by prioritizing product goals and business requirements, receiving multiple positive reviews and feedback.
 
 ### Project Engineer, Wipro
 
 #### Sep 2020 – Jun 2021, Bengaluru, KN, India
 
-Worked on enhancement of a legacy codebase with a Latin American client in the consumer products sector.
+Legacy Codebase Enhancement Specialist, collaborating with a Latin American client in the consumer products sector. Focused on improving codebase functionality and usability.
 
--   Developed new logic for critical business modules with support for foreign currencies in a legacy `Java Swing` codebase.
--   Integrated `SAP Crystal` into the invoicing process, migrating away from a custom legacy system.
--   Handled multiple deployments to QA and Production, automated it with `Python` and `Bash`
--   Served as a translator helping with requirement gathering between the client and the team (English <-> Spanish).
+-   Developed foreign currency support for critical business modules in a legacy Java Swing codebase.
+-   Integrated SAP Crystal into invoicing process, replacing custom legacy system.
+-   Automated deployments to QA and Production using Python and Bash.
+-   Acted as translator between English and Spanish for requirement gathering with client and team.
 
 ### Mentor, Mentors Without Borders
 
@@ -40,16 +39,17 @@ Worked on enhancement of a legacy codebase with a Latin American client in the c
 
 Volunteering as a mentor, helping people worldwide to learn more about technology.
 
--   Taught students programming and web development along with various tools and technologies.
--   Raise awareness among students about the importance of clean code and open source software.
--   Guide students in getting into tech careers and be excited about learning.
+-   Instructed students in programming and web development, using diverse tools and technologies.
+-   Raised awareness about the significance of clean code and open source software among students.
+-   Guided students towards pursuing tech careers and instilled a passion for learning.
 
 ### SDE Intern, Edifixio
 
 #### Dec 2018 - Jan 2019, Kolkata, WB, India
 
--   Built an Android app for IoT device data monitoring with Bluetooth Low Energy.
--   Deployed live app using AWS Lambda and received appreciation from users.
+-   Built an Android app for real-time monitoring of IoT device data using Bluetooth Low Energy.
+-   Deployed app on AWS Lambda, guaranteeing high reliability and performance.
+-   Earned positive feedback from users, showcasing app's functionality and usability.
 
 ## Education
 
@@ -62,15 +62,15 @@ Volunteering as a mentor, helping people worldwide to learn more about technolog
 ## Skills
 
 -   **Programming Languages**:
-    Ruby, Java, Python, JavaScript, Bash, Lua, PHP
+    Ruby, Java, Python, TypeScript, JavaScript, Lua
 -   **Frameworks/Libraries**:
-    Ruby on Rails, React, NextJS, Hugo, Spring, NodeJS, Laravel
+    Ruby on Rails, React, Next.js, NodeJS
 -   **Data**:
-    GraphQL, ActiveRecord, SQLAlchemy, JDBC, RDBMS, NoSQL, Redis, Pandas, Numpy
+    GraphQL, ActiveRecord, SQLAlchemy, Postgres
 -   **DevOps**:
     GitHub, Circle CI, Azure, AWS, Heroku, Aptible, Docker
 -   **Testing**:
-    JUnit, Jest, Enzyme, Rspec, PyTest, Cypress, Pact
+    RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
 
 -   **Spoken Languages**:
     English, Hindi, Bengali, Spanish

@@ -23,7 +23,7 @@ Committed to delivering top-notch software quality, ensuring user satisfaction a
 - Built internal tools, automations and dev environment systems to make lives easier for the whole team.
 - Built strong and lasting client and team relationships, fostering an open and supportive environment.
 
-- Areas of Expertise: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility
+- Areas of Expertise: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility, Mentoring
 
 ### Project Engineer, Wipro
 

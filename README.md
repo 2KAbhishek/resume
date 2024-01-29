@@ -10,46 +10,49 @@
 
 ## Experience
 
-### Software Craftsperson, Incubyte
+### Tech Lead, Incubyte
 
 #### Jun 2021 – Present, Remote
 
-Full-Stack Lead Developer with expertise in Ruby on Rails and Next.js, serving a US-based client in the mental health industry. Committed to delivering top-notch software quality and ensuring client satisfaction.
+Tech Lead with expertise in Ruby on Rails and Next.js, working with a US-based client in the mental health industry.
+Committed to delivering top-notch software quality, ensuring user satisfaction and team happiness.
 
--   Led and implemented end-to-end features on Ruby on Rails + Next.js application
--   Reduced i18n and l10n time from months to days through efficient tooling and processes
--   Configured CI/CD workflows on GitHub Actions and Circle CI to improve developer productivity and software quality
--   Enhanced accessibility features to increase app usability for a wider range of users
--   Built strong client relationships by prioritizing product goals and business requirements, receiving multiple positive reviews and feedback.
+- Deliver high-quality code for clients, inspire through exemplary work and provide technical leadership.
+- Implemented multiple MVPs and features with end-to-end ownership, from discovery till revenue generation.
+- Led DevEx initiatives, identifying and resolving blockers, improving team performance and delivery times.
+- Built internal tools, automations and dev environment systems to make lives easier for the whole team.
+- Built strong and lasting client and team relationships, fostering an open and supportive environment.
+
+- Areas of Expertise: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility
 
 ### Project Engineer, Wipro
 
-#### Sep 2020 – Jun 2021, Bengaluru, KN, India
+#### Sep 2020 – Jun 2021, Remote
 
-Legacy Codebase Enhancement Specialist, collaborating with a Latin American client in the consumer products sector. Focused on improving codebase functionality and usability.
+Enhanced a 20+ year legacy codebase, working with a Latin American client in the consumer products sector.
 
--   Developed foreign currency support for critical business modules in a legacy Java Swing codebase.
--   Integrated SAP Crystal into invoicing process, replacing custom legacy system.
--   Automated deployments to QA and Production using Python and Bash.
--   Acted as translator between English and Spanish for requirement gathering with client and team.
+- Developed foreign currency support for critical business modules in a legacy Java Swing codebase.
+- Integrated SAP Crystal into invoicing process, replacing custom legacy system.
+- Automated deployments to QA and Production using Python and Bash.
+- Acted as translator between English and Spanish for requirement gathering with client and team.
 
 ### Mentor, Mentors Without Borders
 
 #### March 2020 - Present, Remote
 
-Volunteering as a mentor, helping people worldwide to learn more about technology.
+Volunteering as a mentor, helping people worldwide to learn more about technology and help them get jobs.
 
--   Instructed students in programming and web development, using diverse tools and technologies.
--   Raised awareness about the significance of clean code and open source software among students.
--   Guided students towards pursuing tech careers and instilled a passion for learning.
+- Instructed students in programming and web development, using diverse tools and technologies.
+- Raised awareness about the significance of clean code and open source software among students.
+- Guided students towards pursuing tech careers and instilled a passion for learning.
 
 ### SDE Intern, Edifixio
 
 #### Dec 2018 - Jan 2019, Kolkata, WB, India
 
--   Built an Android app for real-time monitoring of IoT device data using Bluetooth Low Energy.
--   Deployed app on AWS Lambda, guaranteeing high reliability and performance.
--   Earned positive feedback from users, showcasing app's functionality and usability.
+- Built an Android app for real-time monitoring of IoT device data using Bluetooth Low Energy.
+- Deployed app on AWS Lambda, guaranteeing high reliability and performance.
+- Earned positive feedback from users, showcasing app's functionality and usability.
 
 ## Education
 
@@ -61,16 +64,16 @@ As a student, I dedicated a most of my time to self-learning and contributing to
 
 ## Skills
 
--   **Programming Languages**:
-    Ruby, Java, Python, TypeScript, JavaScript, Lua
--   **Frameworks/Libraries**:
-    Ruby on Rails, React, Next.js, NodeJS
--   **Data**:
-    GraphQL, ActiveRecord, SQLAlchemy, Postgres
--   **DevOps**:
-    GitHub, Circle CI, Azure, AWS, Heroku, Aptible, Docker
--   **Testing**:
-    RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
+- **Programming Languages**:
+  Ruby, Java, Python, TypeScript, JavaScript, Lua
+- **Frameworks/Libraries**:
+  Ruby on Rails, React, Next.js, NodeJS
+- **Data**:
+  GraphQL, ActiveRecord, SQLAlchemy, Postgres
+- **DevOps**:
+  GitHub, Circle CI, Azure, AWS, Heroku, Aptible, Docker
+- **Testing**:
+  RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
 
--   **Spoken Languages**:
-    English, Hindi, Bengali, Spanish
+- **Spoken Languages**:
+  English, Hindi, Bengali, Spanish

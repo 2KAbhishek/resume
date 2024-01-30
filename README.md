@@ -1,23 +1,23 @@
 # [Abhishek Keshri](https://2kabhishek.github.io)
 
-[**Email**](mailto:iam2kabhishek@gmail.com) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**All my links**](https://2kabhishek.github.io/links)
+[**Email**](mailto:iam2kabhishek@gmail.com) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**More Links**](https://2kabhishek.github.io/links)
 
 ## Summary
 
-Passionate software developer with 3+ years of experience, specializing in Ruby on Rails and React.
-Quick learner, self-starter, always seeking new challenges and learning opportunities.
-Strong belief in the power of open-source and community.
-Enjoys working from the command line, building tools, and automating processes.
+I am a passionate software developer with 3+ Years of experience, specializing in Ruby on Rails and React.
+I am a quick learner and a self-starter, always looking for new challenges and opportunities to learn.
+I strongly believe in the power of open-source and community, and I love to give back by sharing my knowledge.
+I enjoy working from the command line, building tools and automating things.
 
 ## Experience
 
 ### Tech Lead, Incubyte (Jun 2021 – Present, Remote)
 
-- Led a Ruby on Rails and Next.js project for a US-based healthcare client.
-- Implemented multiple MVPs and features with end-to-end ownership.
+- Led a Ruby on Rails and Next.js project, working with a US-based client in the healthcare sector.
+- Implemented multiple MVPs and features with end-to-end ownership, from discovery to revenue.
 - Led DevEx initiatives, identifying and resolving blockers, improving team performance.
-- Built dev systems, internal tools, and automated workflows.
-- Fostered strong team relationships, emphasizing an open and supportive environment.
+- Built dev systems, internal tools, and automated workflows and introduced new practices.
+- Built strong and lasting team relationships, fostering an open and supportive environment.
 - Expertise: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility, Mentoring
 
 ### Project Engineer, Wipro (Sep 2020 – Jun 2021, Remote)
@@ -37,17 +37,17 @@ Enjoys working from the command line, building tools, and automating processes.
 
 ### YouTube (Jun 2020 – Present) - [Channel](http://youtube.com/c/2kabhishek)
 
-- Makes videos on dev tooling and software development, documenting findings.
+- I make videos on dev tooling and software development, documenting my findings.
 
 ### Mentors Without Borders (Mar 2020 – Present, Remote)
 
-- Volunteering as a mentor, teaching web development to students, helping them secure tech jobs.
+- Volunteering as a mentor, teaching web dev to students, helping them get a job in tech.
 
 ## Education
 
 ### BIET (MAKAUT), B.Tech. in CSE (Aug 2016 – Aug 2020, Suri, India)
 
-- Dedicated most of the time to self-learning and contributing to open-source. GPA: 8.4/10.
+- Dedicated most of my time to self-learning and contributing to open-source. GPA: 8.4/10.
 
 ## Skills
 

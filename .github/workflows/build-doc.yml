@@ -11,9 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install texlive
-        run: sudo apt install texlive-base texlive-latex-extra
+        run: sudo apt install texlive-base texlive-latex-extra texlive-full
       - name: Build PDF
-        run: pdflatex resume.tex -o resume.pdf
+        run: |
+          pdflatex resume.tex -o resume.pdf
+          xelatex resume.tex -o resume2.pdf
       - name: Create PR
         uses: peter-evans/create-pull-request@v3
         with:

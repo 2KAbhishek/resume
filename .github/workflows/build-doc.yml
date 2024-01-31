@@ -15,7 +15,8 @@ jobs:
         with:
           root_file: resume.tex
           latexmk_shell_escape: true
-      - run: |
+      - name: Log error
+        run: |
           cat resume.log
       - name: Upload PDF file
         uses: actions/upload-artifact@v3

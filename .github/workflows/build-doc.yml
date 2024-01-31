@@ -14,6 +14,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: resume.tex
+          latexmk_shell_escape: true
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:

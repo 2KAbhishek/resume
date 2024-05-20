@@ -13,8 +13,8 @@ I enjoy working from the command line, building tools and automating things.
 
 ### Tech Lead, Incubyte (Jun 2021 – Present, Remote)
 
-- Led a Ruby on Rails and Next.js project, working with a US-based client in the healthcare sector.
-- Implemented multiple MVPs and features with end-to-end ownership, from discovery to revenue.
+- Led Ruby on Rails and JavaScript projects, working with multiple US-based clients in the healthcare domain.
+- Implemented MVPs and features with end-to-end ownership, from discovery to revenue.
 - Led DevEx initiatives, identifying and resolving blockers, improving team performance.
 - Built dev systems, internal tools, and automated workflows and introduced new practices.
 - Built strong and lasting team relationships, fostering an open and supportive environment.

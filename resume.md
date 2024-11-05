@@ -1,59 +1,62 @@
 # [Abhishek Keshri](https://2kabhishek.github.io)
 
-[**Email**](mailto:iam2kabhishek@gmail.com) | [**GitHub**](https://github.com/2kabhishek) | [**LinkedIn**](https://www.linkedin.com/in/2kabhishek/) | [**More Links**](https://2kabhishek.github.io/links)
+**Learner | Maker | Explorer**
+
+[GitHub](https://github.com/2kabhishek) | [Email](mailto:iam2kabhishek@gmail.com) | [LinkedIn](https://linkedin.com/in/2kabhishek/) | [More Links](https://2kabhishek.github.io/links)
 
 ## Summary
 
-I am a passionate software developer with 3+ Years of experience, specializing in Ruby on Rails and React.
-I am a quick learner and a self-starter, always looking for new challenges and opportunities to learn.
-I strongly believe in the power of open-source and community, and I love to give back by sharing my knowledge.
-I enjoy working from the command line, building tools and automating things.
+Passionate software developer with 4+ years of experience, specializing in web development.
+Tech lead experienced in delivering impactful projects for diverse clients, focused on quality.
+Quick learner and self-starter, passionate about building products that solve real world problems.
+Active open-source contributor, committed to empowering the community by sharing knowledge.
 
 ## Experience
 
-### Tech Lead, Incubyte (Jun 2021 – Present, Remote)
+### Tech Lead, Incubyte | Jun 2021 -- Present | Remote
 
-- Led Ruby on Rails and JavaScript projects, working with multiple US-based clients in the healthcare domain.
-- Implemented MVPs and features with end-to-end ownership, from discovery to revenue.
-- Led DevEx initiatives, identifying and resolving blockers, improving team performance.
-- Built dev systems, internal tools, and automated workflows and introduced new practices.
-- Built strong and lasting team relationships, fostering an open and supportive environment.
-- Expertise: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility, Mentoring
+- Led projects in Ruby on Rails and JavaScript for US healthcare clients, focusing on MVPs and key features.
+- Delivered DevEx improvements, identifying and solving team blockers for optimal performance.
+- Created developer tools and automated workflows to enhance productivity and best practices.
+- Built team rapport and fostered an inclusive, collaborative work environment.
+- Key skills: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility, Mentoring
 
-### Project Engineer, Wipro (Sep 2020 – Jun 2021, Remote)
+### Project Engineer, Wipro | Sep 2020 -- Jun 2021 | Remote
 
-- Enhanced a legacy code base for a Latin American client in the consumables sector.
-- Developed foreign currency support in Java Swing for critical business modules.
-- Integrated SAP Crystal into the invoicing process, replacing the custom legacy system.
-- Automated deployments to QA and Production using Python and Bash.
-- Acted as a translator between English and Spanish for requirement gathering.
+- Enhanced legacy systems with foreign currency support and SAP Crystal integration for a LATAM client.
+- Built a custom UI framework in Java Swing to accelerate development on legacy modules.
+- Automated deployments to QA and Production environments using Python and Bash scripts.
 
-### SDE Intern, Edifixio (Dec 2018 – Jan 2019, Kolkata, India)
+### SDE Intern, Edifixio | Dec 2018 -- Jan 2019 | Kolkata, India
 
-- Built an Android app for real-time monitoring of IoT device data using Bluetooth Low Energy.
-- Deployed the app to AWS Lambda, ensuring high reliability and performance.
+- Built an Android app for real-time IoT data monitoring via Bluetooth, deployed on AWS Lambda.
+- Ensured reliability and efficiency, optimizing performance in data processing.
 
 ## Activities
 
-### YouTube (Jun 2020 – Present) - [Channel](http://youtube.com/c/2kabhishek)
+### Open Source Maintainer | Nov 2018 -- Present | [GitHub](http://github.com/2kabhishek)
 
-- I make videos on dev tooling and software development, documenting my findings.
+- Published 240+ repositories, covering developer tooling, web apps, plugins, and tutorials.
+- Earned 2,200+ stars, reflecting strong engagement and impact across the open-source community.
+- Maintain popular projects, implementing features and updates driven by community feedback.
 
-### Mentors Without Borders (Mar 2020 – Present, Remote)
+### YouTube | Jun 2020 -- Present | [Channel](http://youtube.com/@2kabhishek)
 
-- Volunteering as a mentor, teaching web dev to students, helping them get a job in tech.
+- Create videos on dev tooling and software development, sharing insights with the community.
 
-## Education
+### Conference Speaker | Apr 2022 -- Present | Various
 
-### BIET (MAKAUT), B.Tech. in CSE (Aug 2016 – Aug 2020, Suri, India)
+- Spoke at NeovimConf and VimConf, led internal learning sessions, attended GIDS multiple times.
 
-- Dedicated most of my time to self-learning and contributing to open-source. GPA: 8.4/10.
+### Mentors Without Borders | Mar 2020 -- Present | Remote
+
+- Volunteer as a mentor, teaching web development and guiding students toward tech careers.
 
 ## Skills
 
-- **Programming Languages**: Ruby, TypeScript/JavaScript, Java, Python, Bash, Lua, Go, Rust, Elixir
-- **Frameworks**: Ruby on Rails, React, Next.js, NodeJS, Spring, Flask, Android, Phoenix
-- **Data**: GraphQL, ActiveRecord, SQLAlchemy, Postgres, MySQL
-- **DevOps**: GitHub, Circle CI, Azure, AWS, Heroku, Aptible, Docker
-- **Testing**: RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
-- **Spoken Languages**: English, Hindi, Bengali, Spanish, Japanese (Learning)
+- **Programming:** Ruby, Python, TypeScript, JavaScript, Java, Bash, Lua, Go, Rust, Elixir
+- **Frameworks:** Ruby on Rails, Flask, React, Next.js, Node.js, Spring, Phoenix
+- **DevOps:** GitHub, CircleCI, Linux, Docker, Aptible, Azure, AWS
+- **Testing:** RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
+- **Data:** GraphQL, ActiveRecord, SQLAlchemy, PostgreSQL, MySQL
+- **Languages:** English, Hindi, Bengali, Spanish, Japanese (learning)

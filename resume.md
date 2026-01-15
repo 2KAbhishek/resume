@@ -1,62 +1,89 @@
 # [Abhishek Keshri](https://2kabhishek.github.io)
 
-**Learner | Maker | Explorer**
+**Tech Lead | Full-Stack & Developer Tooling Engineer | Open Source Maintainer**
 
 [GitHub](https://github.com/2kabhishek) | [Email](mailto:iam2kabhishek@gmail.com) | [LinkedIn](https://linkedin.com/in/2kabhishek/) | [More Links](https://2kabhishek.github.io/links)
 
+---
+
 ## Summary
 
-Passionate software developer with 4+ years of experience, specializing in web development.
-Tech lead experienced in delivering impactful projects for diverse clients, focused on quality.
-Quick learner and self-starter, passionate about building products that solve real world problems.
-Active open-source contributor, committed to empowering the community by sharing knowledge.
+Tech Lead with 5+ years of experience building production systems and AI solutions for US healthcare clients.
+Strong ownership across system design, architecture, globalization, dev tooling, and delivery for distributed teams.
+Developer advocate with 4.5k+ community reach: 240+ repos, 2.2K+ GitHub stars, and active technical mentoring.
+
+---
 
 ## Experience
 
-### Tech Lead, Incubyte | Jun 2021 -- Present | Remote
+### Tech Lead | Incubyte
 
-- Led projects in Ruby on Rails and JavaScript for US healthcare clients, focusing on MVPs and key features.
-- Delivered DevEx improvements, identifying and solving team blockers for optimal performance.
-- Created developer tools and automated workflows to enhance productivity and best practices.
-- Built team rapport and fostered an inclusive, collaborative work environment.
-- Key skills: API Design, Data Modeling, CI/CD, Dev Tooling, Globalization, Accessibility, Mentoring
+**Jun 2021 – Present | Remote**
 
-### Project Engineer, Wipro | Sep 2020 -- Jun 2021 | Remote
+- Led team of 11 engineers delivering systems for US healthcare clients, owning architecture, quality, and release.
+- Led large-scale API optimization initiative, reducing infra costs by $680K annually (40% reduction).
+- Led globalization and accessibility, scaling a product to 200+ countries and 57+ languages with WCAG 2.1.
+- Built AI dev tooling and automated CI/CD workflows, reducing deployment time by 60% (20 mins to 8 mins).
+- Mentored engineers on clean code, AI best practices, and technical guidance, fostering collaborative culture.
 
-- Enhanced legacy systems with foreign currency support and SAP Crystal integration for a LATAM client.
-- Built a custom UI framework in Java Swing to accelerate development on legacy modules.
-- Automated deployments to QA and Production environments using Python and Bash scripts.
+### Project Engineer | Wipro
 
-### SDE Intern, Edifixio | Dec 2018 -- Jan 2019 | Kolkata, India
+**Sep 2020 – Jun 2021 | Remote**
 
-- Built an Android app for real-time IoT data monitoring via Bluetooth, deployed on AWS Lambda.
-- Ensured reliability and efficiency, optimizing performance in data processing.
+- Owned legacy system enhancements including forex support and SAP Crystal integration for LATAM client.
+- Built custom UI framework in Java Swing, automated QA, prod deploys, reducing manual deployment overhead.
 
-## Activities
+### Software Development Intern | Edifixio
 
-### Open Source Maintainer | Nov 2018 -- Present | [GitHub](http://github.com/2kabhishek)
+**Dec 2018 – Jan 2019 | Kolkata, India**
 
-- Published 240+ repositories, covering developer tooling, web apps, plugins, and tutorials.
-- Earned 2,200+ stars, reflecting strong engagement and impact across the open-source community.
-- Maintain popular projects, implementing features and updates driven by community feedback.
+- Developed Android application for real-time IoT data monitoring via Bluetooth, deployed on AWS Lambda.
+- Optimized data processing performance and ensured system reliability.
 
-### YouTube | Jun 2020 -- Present | [Channel](http://youtube.com/@2kabhishek)
+---
 
-- Create videos on dev tooling and software development, sharing insights with the community.
+## Open Source Impact
 
-### Conference Speaker | Apr 2022 -- Present | Various
+### Open Source Maintainer | GitHub
 
-- Spoke at NeovimConf and VimConf, led internal learning sessions, attended GIDS multiple times.
+**Nov 2018 – Present**
 
-### Mentors Without Borders | Mar 2020 -- Present | Remote
+- Built and maintained 240+ open-source repos focused on dev tooling and productivity, with 2.2K+ GitHub stars.
 
-- Volunteer as a mentor, teaching web development and guiding students toward tech careers.
+### Conference Speaker | Various
+
+**Apr 2022 – Present**
+
+- Spoke at NeovimConf, VimConf Tokyo and various other conferences on developer tooling and productivity.
+
+### Content Creator | YouTube
+
+**Jun 2020 – Present**
+
+- Create technical content on developer tooling, productivity systems, and software development practices.
+
+### Technical Mentor | Mentors Without Borders
+
+**Mar 2020 – Present**
+
+- Mentor students on web development fundamentals, programming concepts, and career guidance in technology.
+
+---
 
 ## Skills
 
-- **Programming:** Ruby, Python, TypeScript, JavaScript, Java, Bash, Lua, Go, Rust, Elixir
-- **Frameworks:** Ruby on Rails, Flask, React, Next.js, Node.js, Spring, Phoenix
-- **DevOps:** GitHub, CircleCI, Linux, Docker, Aptible, Azure, AWS
-- **Testing:** RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
-- **Data:** GraphQL, ActiveRecord, SQLAlchemy, PostgreSQL, MySQL
-- **Languages:** English, Hindi, Bengali, Spanish, Japanese (learning)
+**Programming Languages:** Ruby, Python, TypeScript, JavaScript, Java, Bash, Lua, Go, Rust, Elixir
+
+**Frameworks & Libraries:** Ruby on Rails, Flask, React, Next.js, Node.js, Spring Boot, Phoenix
+
+**DevOps & Infrastructure:** GitHub Actions, CircleCI, Linux, Docker, Aptible, Azure, AWS
+
+**Testing:** RSpec, JUnit, Jest, Enzyme, PyTest, Cypress, Pact
+
+**Data & APIs:** GraphQL, REST APIs, ActiveRecord, SQLAlchemy, PostgreSQL, MySQL
+
+**Domain Expertise:** System Design, API Design, Data Modeling, CI/CD, DevEx, A11y, Globalization, Mentoring
+
+**Languages:** English, Hindi, Bengali, Spanish
+
+---
